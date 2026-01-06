@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 
   <br/><br/>
-## Programming Languages
+## Languages
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <br/><br/>
