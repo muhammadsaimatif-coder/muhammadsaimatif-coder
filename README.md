@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </p>
 
+## Languages
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ## Experience
 
@@ -84,9 +86,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 
-  <br/><br/>
-## Languages
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <br/><br/>
 ## Profile Views
