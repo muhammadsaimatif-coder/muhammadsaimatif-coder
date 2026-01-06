@@ -44,22 +44,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsaimatif@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab)
 
-
 ## GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=radical&rank_icon=github" alt="muhammadsaimatif-coder's GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
 
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=radical" alt="muhammadsaimatif-coder's Top Languages" />
 
-  <img src="https://komarev.com/ghpvc/?username=muhammadsaimatif-coder&color=blue" alt="Visitor Count" />
-</p>
+  <br/>
 
-  <!-- Visitor Count -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=muhammadsaimatif-coder" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadsaimatif-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
