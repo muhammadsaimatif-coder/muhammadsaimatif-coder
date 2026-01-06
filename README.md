@@ -9,37 +9,62 @@
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  &nbsp;&nbsp; <!-- space between badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;&nbsp; <!-- space between badges -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+</p>
+
 
 ## Experience
 
-### AI Project Coordinator - FIVER
+### Web Development/Marketing - Hi-End-Recruiters
 
-4 months job
+9 months job
 
-* ✅ Coordination: Bridged clients and AI specialists  
-* ✅ Project Flow: Managed tasks, timelines, deliverables  
-* ✅ AI Requirements: Understood and translated AI project needs
+* Web Development: Designed and maintained responsive, user-friendly websites for Hiend Recruiters (hiendrecruiters.com)
 
-## Projects
+* Marketing Strategy: Planned and executed digital marketing campaigns to boost visibility and client engagement
 
-* **Banking Management System (C++ / OOP)**  
-  Full‑featured banking application with OOP concepts  
-* **Hospital Management System (C++ / PF)**  
-  Full‑featured Hospital Management System with PF concepts  
-* **Other Work:**  
-  * Digital Logic Design  
-  * AI Automation
+* Content Management: Created and managed web content to highlight services, achievements, and client success stories
+
+* SEO & Analytics: Optimized website performance and tracked analytics to drive growth and improve user experience
+
+* Client Coordination: Worked closely with Hiend Recruiters team to implement updates and marketing initiatives efficiently
+  
+### Virutal Assistant - FIVERR
+
+1 year 1 month Freelancer
+
+* Client Support: Assisted e-commerce clients with inquiries and daily operations
+
+* Order Management: Monitored orders, inventory, and product listings efficiently
+
+* Workflow Optimization: Streamlined tasks, schedules, and communication for smooth operations
+
+* E-commerce Tools: Managed platforms like Shopify, WooCommerce, or Etsy to boost productivity
+
+* Reporting & Insights: Tracked performance metrics and provided actionable updates
+  
+  ### Digital Marketing - Dubai
+
+6 months job
+
+* Reputation Management: Monitored and improved online brand image, removed negative content
+
+* Content Creation: Developed engaging posts and campaigns to highlight positive stories
+
+* Event Promotion: Marketed events and boosted audience engagement across platforms
+
+* Image Enhancement: Strategically showcased clients’ strengths and achievements
+
+* Client Coordination: Collaborated closely with clients to achieve marketing objectives
 
 ## Education
 
 **BS Artificial Intelligence – UCP (2024 – Present)**  
-**ICS – Punjab Group of Colleges (2022 – 2024)**  
-**Matriculation – LPS (2020 – 2022)**
-
-## Connect with Me
 
 ## Connect with Me
 
