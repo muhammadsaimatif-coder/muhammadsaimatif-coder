@@ -41,8 +41,18 @@
 
 ## Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsaimatif@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab)
+## Connect with Me
+
+<p align="center">
+  <a href="mailto:mohammadsaimatif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp; <!-- optional space between badges -->
+  <a href="https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ## GitHub Stats 
 
