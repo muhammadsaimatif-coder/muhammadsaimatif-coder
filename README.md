@@ -12,13 +12,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI-90%25-blue?style=for-the-badge" alt="AI"/>
   &nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Programming-80%25-green?style=for-the-badge" alt="Programming"/>
+ &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Automation-85%25-orange?style=for-the-badge" alt="Automation"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DigitalMarketing-70%25-purple?style=for-the-badge" alt="Digital Marketing"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GraphicDesign-65%25-pink?style=for-the-badge" alt="Graphic Designing"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Programming-80%25-green?style=for-the-badge" alt="Programming"/>
+  
+  
 </p>
 
 
