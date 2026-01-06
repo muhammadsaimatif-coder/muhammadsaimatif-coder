@@ -7,6 +7,20 @@
 * Strong in Problem Solving, Web Development, N8N  
 * Always eager to learn, apply, and build impactful solutions
 
+  ## My Skills
+
+<p align="center">
+  AI: 
+  <img src="https://progress-bar.dev/90/?title=AI&color=blue&suffix=%25" alt="AI"/> <br>
+  Automation: 
+  <img src="https://progress-bar.dev/85/?title=Automation&color=orange&suffix=%25" alt="Automation"/> <br>
+  Digital Marketing: 
+  <img src="https://progress-bar.dev/70/?title=DigitalMarketing&color=purple&suffix=%25" alt="Digital Marketing"/> <br>
+  Graphic Designing: 
+  <img src="https://progress-bar.dev/65/?title=GraphicDesign&color=pink&suffix=%25" alt="Graphic Designing"/>
+</p>
+
+
 ## Tech Stack
 
 <p align="center">
