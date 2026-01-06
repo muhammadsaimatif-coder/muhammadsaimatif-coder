@@ -46,12 +46,14 @@
 
 ## GitHub Stats & Languages
 
-![Muhammad Saim Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimenmasood&show_icons=true&theme=radical&count_private=true)  
+<!-- GitHub Stats -->
+![Muhammad Saim Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimenmasood&show_icons=true&count_private=true&theme=radical)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimenmasood&layout=compact&theme=radical)
 
-## Visitors Count
+<!-- Visitor Count -->
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=aimenmasood)
 
-![Visitor Count](https://profile-counter.glitch.me/aimenmasood/count.svg)
 
 > ✨ “Always striving to bridge the gap between theory and real‑world application.”
