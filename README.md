@@ -66,7 +66,6 @@
 
 * Client Coordination: Collaborated closely with clients to achieve marketing objectives
   
-## Tech Stack
 
 ## Tech Stack
 
