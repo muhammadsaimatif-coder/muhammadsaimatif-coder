@@ -17,15 +17,7 @@
 </p>
 
 
-## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  &nbsp;&nbsp; <!-- space between badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  &nbsp;&nbsp; <!-- space between badges -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-</p>
 
 ## Languages
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -73,6 +65,21 @@
 * Image Enhancement: Strategically showcased clients’ strengths and achievements
 
 * Client Coordination: Collaborated closely with clients to achieve marketing objectives
+  
+## Tech Stack
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/N8N-FF5C00?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
+</p>
+
 
 ## Education
 
