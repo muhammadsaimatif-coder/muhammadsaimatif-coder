@@ -44,13 +44,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsaimatif@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab)
 
-## GitHub Stats & Languages
+## GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 
   <br/><br/>
-
+## Programming Languages
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <br/><br/>
