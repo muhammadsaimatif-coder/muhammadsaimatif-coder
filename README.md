@@ -47,13 +47,13 @@
 ## GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadsaimatif-coder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadsaimatif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=muhammadsaimatif-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+## Profile Views
+  <img src="https://komarev.com/ghpvc/?username=muhammadsaimatif-coder&label=Profile%20Views&color=34548a&style=flat-square" alt="Visitor Count" />
 </p>
