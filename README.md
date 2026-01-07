@@ -1,11 +1,12 @@
-# Hi there, I'm Aimen Masood
+
 
 ## About Me
 
-* BS Artificial Intelligence Student at University Of Central Punjab  
-* Passionate about Front-end development and AI Automation  
-* Strong in Problem Solving, Web Development, N8N  
-* Always eager to learn, apply, and build impactful solutions
+I specialize in:  
+- **Automation & AI:** Designing end-to-end workflows integrating AI, APIs, databases, and notification systems.  
+- **E-commerce Optimization:** Improving SEO, PPC campaigns, and forecasting models to drive measurable ROI.  
+- **Reputation Management:** Revitalizing digital presence and amplifying positive engagement across social platforms.  
+- **Graphic Design & Multimedia:** Creating high-quality visual assets and videos for impactful communication. 
 
  ## My Skills
 
