@@ -95,15 +95,15 @@ I specialize in:
 
 ## Connect with Me
 <p align="center">
-  <a href="mailto:mohammadsaimatif@gmail.com">
+  <a href="mailto:mohammadsaimatif@gmail.com?subject=Hello" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab">
+  <a href="https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/MSaimatif">
+  <a href="https://x.com/MSaimatif" target="_blank">
     <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
 </p>
