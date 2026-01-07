@@ -94,7 +94,6 @@ I specialize in:
 **BS Artificial Intelligence – UCP (2024 – Present)**  
 
 ## Connect with Me
-
 <p align="center">
   <a href="mailto:mohammadsaimatif@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -108,6 +107,7 @@ I specialize in:
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
+
 
 
 
