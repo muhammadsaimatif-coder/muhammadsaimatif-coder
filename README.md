@@ -97,17 +97,18 @@ I specialize in:
 
 <p align="center">
   <a href="mailto:mohammadsaimatif@gmail.com">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge-?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/MSaimatif">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge-?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
 </p>
+
 
 
 
