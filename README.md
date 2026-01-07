@@ -103,7 +103,12 @@ I specialize in:
   <a href="https://pk.linkedin.com/in/muhammad-saim-atif-2b98381ab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp; <!-- optional space between badges -->
+  <a href="https://x.com/MSaimatif">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
+
 
 
 ## GitHub Stats 
