@@ -2,7 +2,7 @@
 
 ## About Me
 
-# I specialize in:  
+### I specialize in:  
 - **Automation & AI:** Designing end-to-end workflows integrating AI, APIs, databases, and notification systems.  
 - **E-commerce Optimization:** Improving SEO, PPC campaigns, and forecasting models to drive measurable ROI.  
 - **Reputation Management:** Revitalizing digital presence and amplifying positive engagement across social platforms.  
