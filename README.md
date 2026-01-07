@@ -113,6 +113,7 @@ I specialize in:
 
 
   <br/><br/>
-## Profile Views
-  <img src="https://komarev.com/ghpvc/?username=muhammadsaimatif-coder&label=Profile%20Views&color=34548a&style=flat-square" alt="Visitor Count" />
-</p>
+
+  ##GitHUB Activities
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaimatif-coder&theme=react-dark)
+
