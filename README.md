@@ -114,6 +114,6 @@ I specialize in:
 
   <br/><br/>
 
-  ##GitHUB Activities
+## GitHUB Activities
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaimatif-coder&theme=react-dark)
 
